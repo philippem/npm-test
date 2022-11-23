@@ -1,0 +1,19 @@
+{
+  "name": "philippem-npm-test",
+  "version": "1.0.0",
+  "description": "Dummy Test Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philippem/philippem-npm-test.git"
+  },
+  "author": "Philippe McLean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philippem/philippem-npm-test/issues"
+  },
+  "homepage": "https://github.com/philippem/philippem-npm-test#readme"
+}
